@@ -1,0 +1,13 @@
+[ignore]
+<PROJECT_ROOT>/examples/.*
+<PROJECT_ROOT>/node_modules/.*
+
+[include]
+
+[libs]
+decls/
+
+[options]
+
+[version]
+0.33.0
